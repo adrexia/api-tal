@@ -1,7 +1,7 @@
 require.def("sampleapp/datasources/sampledatasource",
   [
     "antie/class",
-    "sampleapp/datasources/datasourcebase"
+    "apital/datasources/datasourcebase"
   ],
   function(Class, DataSourceBase) {
       return DataSourceBase.extend({
