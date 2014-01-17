@@ -1,6 +1,6 @@
 require.def("sampleapp/models/sampledatasourcemanager",
   [
-      "sampleapp/models/datasourcemanager",
+      "apital/models/datasourcemanager",
       "sampleapp/datasources/sampledatasource"
   ],
   function(DataSourceManager, SampleDataSource) {
