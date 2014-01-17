@@ -1,4 +1,4 @@
-require.def("sampleapp/models/datasourcemanager",
+require.def("apital/models/datasourcemanager",
     [
         "antie/class",
         "antie/datasource"

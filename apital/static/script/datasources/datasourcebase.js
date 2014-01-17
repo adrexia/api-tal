@@ -1,4 +1,4 @@
-require.def("sampleapp/datasources/datasourcebase",
+require.def("apital/datasources/datasourcebase",
     [
         "antie/datasource"
     ],
